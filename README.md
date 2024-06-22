@@ -1,2 +1,2 @@
 # Python-Data-Analysis-Disney
-Mock Data Analysis using Pandas and Altair
+Mock Data Analysis in Jupyter Lab using Pandas and Altair
